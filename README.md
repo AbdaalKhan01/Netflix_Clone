@@ -8,7 +8,11 @@ HTML5
 CSS3
 
 **Main Features:**
+
 **Custom Navigation Bar:** Static but styled buttons for easy navigation.
+
 **Responsive Design:** Optimized for various screen sizes using CSS media queries.
+
 **User Interaction:** Includes language selection and email input fields for subscriptions.
+
 **Enhanced Styling:** Leveraged advanced CSS techniques for a polished, responsive design.
